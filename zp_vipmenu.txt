@@ -1,0 +1,14 @@
+[en]
+ZPV_NO_ACCESS = You are not ^3VIP^1. Visit *site*.
+ZPV_NO_ITEMS = There are no items in VIP Menu.
+ZPV_ITEM_NEXT_ROUND = VIP Item ^3%l^1 will be enabled next round.
+ZPV_ITEM_ENABLED = VIP Item ^3%l^1 is now active.
+ZPV_LM_RECEIVED = You received a free ^3LM^1 by the VIP Items.
+
+VITEM_DAMAGE = Extra Damage
+VITEM_JUMP = Extra Jump
+VITEM_SPEED = Extra Speed
+VITEM_GRAVITY = Extra Gravity
+VITEM_INVIS = Semi-Invisibilty
+VITEM_LMS = Free LM every %d seconds
+VITEM_NONE = None

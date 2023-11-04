@@ -1,0 +1,7 @@
+[en]
+ZP_CMD_NOT_AVAILABLE = This command is not available. Retry later.
+ZP_CMD_CANNOT_USE_MAP = You cannot use this command for more than once per map.
+ZP_CMD_CANNOT_USE_TIME = You cannot use this command. Retry in^3
+ZP_AP_RECEIVED = You received ^3%d^1 AP.
+ZP_AP_NEXT_MAP = You can use the command again on next map.
+ZP_AP_NEXT_TIME = You can use the command again after %d hours.

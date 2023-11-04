@@ -1,0 +1,12 @@
+[en]
+ZP_ITEM_BOUGHT = You bought
+
+ZP_ITEM_CAN_BUY = now available in Buy Menu.
+ZP_ITEM_NUMBERS = [ %d/^3%d^1 ]
+
+ZP_ITEM_CANNOT_TIME = You cannot buy ^3%s^1 yet. Wait ^3%s^1.
+ZP_TIMELEFT = %dm%ds
+ZP_NO_SLOTS = There are no slots that you can buy!
+ZP_SLOT_BOUGHT = You bought a ^3%s^1 slot. 
+ZP_NO_AMMO = You don't have enough ammo.
+ZP_MAX_SLOTS = You already have bought all slots available for ^3%s^1.
